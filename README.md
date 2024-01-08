@@ -1,1 +1,1 @@
-# loginPage
+# Register page
